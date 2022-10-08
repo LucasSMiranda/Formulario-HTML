@@ -20,6 +20,13 @@ form {
     width: 60vw;
 }
 
+fieldset{
+    border: none;
+    padding-top: 2rem;
+    padding-right: 0;
+    padding-bottom: 2rem;
+    padding-left: 0;
+}
 label {
     display: block;
     margin: 0.5rem 0;
