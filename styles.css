@@ -26,6 +26,7 @@ fieldset{
     padding-right: 0;
     padding-bottom: 2rem;
     padding-left: 0;
+    border-bottom: 3px solid #3b3b4f;
 }
 label {
     display: block;
