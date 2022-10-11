@@ -53,5 +53,6 @@ input, textarea, select {
     margin-top: 0;
     margin-bottom: 0;
     margin-left: 0;
+    vertical-align: middle;
 
   }
